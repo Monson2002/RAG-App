@@ -4,6 +4,8 @@ scraped_data/
 data/
 ncert_science_class_10th/
 
+RAG.ipynb
+
 # Logs
 logs
 *.log
