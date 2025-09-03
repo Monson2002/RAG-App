@@ -2,8 +2,7 @@
 
 scraped_data/
 data/
-chroma_langchain_db/
-chroma-RAG-db/
+ncert_science_class_10th/
 
 # Logs
 logs
